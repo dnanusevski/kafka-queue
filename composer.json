@@ -1,0 +1,12 @@
+{
+    "name": "dnanusevski/kafka-queue",
+    "require": {
+        "laravel/framework": "9.19"
+    },
+    "authors": [
+        {
+            "name": "Dimitrije Nanusevski",
+            "email": "dnanusevski@gmail.com"
+        }
+    ]
+}
